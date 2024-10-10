@@ -33,7 +33,12 @@ no 4b
 soal latihan 2C
 no 1c
 - Program ini menghitung total biaya pengiriman parsel berdasarkan berat yang dimasukkan dalam gram.
+- 
 no 2c
 - Program ini digunakan untuk menentukan nilai huruf berdasarkan nilai akhir yang dimasukkan untuk suatu mata kuliah.
+- 1 d, tidak
+- 2 program tersebut tidak bisa membaca nilai yang diinputkan user dengan sesuai, dikarenakan kesalahan pada codingan if yang berulang. Seharusnya jika sudah menggunakan if dan ingin menggunakan if lagi harus 
+  ditambah else didepan if
+  
 no 3c
 - Program ini meminta pengguna untuk memasukkan bilangan bulat lebih dari 1 dan kemudian menampilkan faktor-faktor dari bilangan tersebut.
